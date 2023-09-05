@@ -1,4 +1,5 @@
 console.log('Hello')
+console.log('Hello 2')
 function toggleBulb() {
     let imgBulb = document.getElementById('bulb')
 
