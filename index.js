@@ -1,4 +1,4 @@
-
+console.log('Hello')
 function toggleBulb() {
     let imgBulb = document.getElementById('bulb')
 
